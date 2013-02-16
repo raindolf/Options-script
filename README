@@ -1,0 +1,10 @@
+This a simple shell script that automates the process of allowing a user to choose an option ( 1-5 ) and each option comes with a quote. You can edit all the text and replace it with your content. 
+In the command line use this syntax to input into  a file :
+eg.
+cat > love 
+
+Love is a great feeling.
+
+Afterwards CTRL D to go back to command line..Read this blog post if you still don't understand the aim of this program.. www.raindolf.blogspot.com
+
+"Software is like sex: it's better when it's free." Linus Torvalds 
